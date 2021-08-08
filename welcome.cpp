@@ -3,5 +3,6 @@ using namespace std;
 int main()
 {
 	cout<<"Welcome to my C++ Datastructures";
+	cout<<"verified";
 	return 0;
 }
